@@ -1,0 +1,10 @@
+{
+    "name": "PlayerController",
+    "references": [
+        "InputManager"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

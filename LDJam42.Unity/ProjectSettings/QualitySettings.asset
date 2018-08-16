@@ -54,13 +54,13 @@ QualitySettings:
     shadowmaskMode: 1
     blendWeights: 4
     textureQuality: 0
-    anisotropicTextures: 1
+    anisotropicTextures: 2
     antiAliasing: 4
     softParticles: 0
     softVegetation: 1
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
-    vSyncCount: 1
+    vSyncCount: 0
     lodBias: 2
     maximumLODLevel: 0
     streamingMipmapsActive: 0
